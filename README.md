@@ -1,1 +1,1 @@
-# Multiplicationtabl
+# Multiplicationtabl-programming in c
